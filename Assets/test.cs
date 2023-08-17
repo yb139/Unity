@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    string s = "second";
+    string s = "third";
 }
